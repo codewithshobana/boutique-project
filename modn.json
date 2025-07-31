@@ -1,0 +1,76 @@
+{
+    "mod": [
+    {
+      "id": 25,
+      "img": "./IMAGES/mod1.jpg",
+      "name": "Black Dress with puffed sheer floral prints",
+      "price":  800
+    },
+    {
+      "id": 26,
+      "img": "./IMAGES/mod2.jpg",
+      "name": "Basic white oversized t-shirt with light blue skinny jeans",
+      "price":  2500 
+    },
+    {
+      "id": 27,
+      "img": "./IMAGES/mod11.jfif",
+      "name": "Floral smocked maxi dress with puffy Sleeves",
+      "price":  1590 
+    },
+    {
+      "id": 28,
+      "img": "./IMAGES/mod3.jpg",
+      "name": "Floral high-low top with denim jeans",
+      "price":  3000 
+    },
+    {
+      "id": 29,
+      "img": "./IMAGES/mod4.jfif",
+      "name": "Red printed bohemian blouse with dark blue flared jeans",
+      "price":  5200
+    },
+    {
+      "id": 30,
+      "img": "./IMAGES/mod12.jpg",
+      "name": "Yellow colour A-line button frock",
+      "price":  1000
+    },
+    {
+      "id": 31,
+      "img": "./IMAGES/mod5.jpg",
+      "name": "Floral long shrug with top and Jeggings",
+      "price":  3500 
+    },
+    {
+      "id": 32,
+      "img": "./IMAGES/mod6.jfif",
+      "name": "Formal Casual Combo Striped Shirt with black blazer and pants",
+      "price":  5550 
+    },
+    {
+      "id": 33,
+      "img": "./IMAGES/mod10.jpg",
+      "name": "Blue colour sleeveless Denim Shirt Dress",
+      "price":  2350 
+    },
+    {
+      "id": 34,
+      "img": "./IMAGES/mod9.jpg",
+      "name": "Beige teench coat with jeans and scarf",
+      "price":  10500 
+    },
+    {
+      "id": 35,
+      "img": "./IMAGES/mod8.jfif",
+      "name": "Grey blazer with tank top and jeans",
+      "price":  8900 
+    },
+    {
+      "id": 36,
+      "img": "./IMAGES/mod7.jpg",
+      "name": "Classic Parisian look Striped top with trench coat and black pants",
+      "price":  9500 
+    }
+]
+}

@@ -1,0 +1,224 @@
+{
+  "abc": [
+    {
+      "id": 1,
+      "img": "./wedding sarees1.jpg",
+      "name": "Silver and Gold Zari Wowen Kanchipuram Tissue",
+      "price":15500
+    },
+    {
+      "id": 2,
+      "img": "./wedding sarees12.jpg",
+      "name": "Maroon and Gold Tissue Designer Saree with Embroideredy",
+      "price":  10000
+    },
+    {
+      "id": 3,
+      "img": "./wedding sarees3.avif",
+      "name": "Orange Sequins Embroidered Organza Designer Saree",
+      "price":  13500 
+    },
+    {
+      "id": 4,
+      "img": "./wedding sarees4.jpg",
+      "name": "Pink & Red Dual Tone Zari Woven Kanchipuram Silk Saree",
+      "price":  9000 
+    },
+    {
+      "id": 5,
+      "img": "./wedding sarees 5.jpg",
+      "name": "Beige Sequins Embroidered Tissue Saree with Readymade Half Sleeves Blouse",
+      "price":  12000
+    },
+    {
+      "id": 6,
+      "img": "./wedding sarees6.jfif",
+      "name": "Dark Green Kanchipuram Silk Pure Zari Saree with Unstitched Blouse",
+      "price":  11500 
+    },
+    {
+      "id": 7,
+      "img": "./wedding sarees2.webp",
+      "name": "Sky Blue Zari Woven Soft Silk Saree with Cotrast Border and Unstitched Blouse",
+      "price":  20500
+    },
+    {
+      "id": 8,
+      "img": "./wedding sarees8.jpg",
+      "name": "Off-White & Gold Dual Tone Floral Motif Zari Woven Kanchipuram Tissue Silk Saree",
+      "price":  8300
+    },
+    {
+      "id": 9,
+      "img": "./wedding sarees10.jpg",
+      "name": "Dark Purple Zari Woven Kanchipuram Silk Saree with Unstitched Blouse",
+      "price":  13000
+    },
+    {
+      "id": 10,
+      "img": "./wedding sarees9.jfif",
+      "name": "Orange & Green Dual-Tone Zari Woven Kanchipuram Silk Saree",
+      "price":  10000
+    },
+    {
+      "id": 11,
+      "img": "./wedding sarees11.jpg",
+      "name": "Sky Blue Zari Woven Soft Silk Saree with Cotrast Border and Unstitched Blouse",
+      "price":  10800
+    },
+    {
+      "id": 12,
+      "img": "./wedding sarees7.jfif",
+      "name": "Dark Maroon Crepe Designer Saree with Embroidered Full Sleeve Blouse",
+      "price":  9000
+    },
+    {
+      "id": 13,
+      "img": "./kurty 1.jfif",
+      "name": "White Cambric Floral Printed Straight Kurta Set",
+      "price":  500
+    },
+    {
+      "id": 14,
+      "img": "./kurty2.jpg",
+      "name": "Black Cotton Staight Kurta",
+      "price":  800
+    },
+    {
+      "id": 15,
+      "img": "./kurty3.webp",
+      "name": "Teal blue with floral prints in shades of pink,purple and green.",
+      "price": 1500
+    },
+    {
+      "id": 16,
+      "img": "./kurty4.jpg",
+      "name": "Pink colour with white Embroidery",
+      "price":  750
+    },
+    {
+      "id": 17,
+      "img": "./kurty9.jpg",
+      "name": "light beige with goldern Embroidery pant",
+      "price":  1000 
+    },
+    {
+      "id": 18,
+      "img": "./kurty6.jpg",
+      "name": "white colour with maroon and dark brown",
+      "price":  830
+    },
+    {
+      "id": 19,
+      "img": "./kurty7.jpg",
+      "name": "A Rich teal blue with detailed floral embroidery inculding pink and gold",
+      "price":  1300 
+    },
+    {
+      "id": 20,
+      "img": "./kurty8.avif",
+      "name": "A light green with a slight gold tissue silk fabric",
+      "price":  1500
+    },
+    {
+      "id": 21,
+      "img": "./kurty5.jpg",
+      "name": "Peachy pink with silver light colour",
+      "price":  950
+    },
+    {
+      "id": 22,
+      "img": "./kurty10.jpg",
+      "name": "Light pastel pink with pastel pink pant and dupatta",
+      "price":  1890 
+    },
+    {
+      "id": 23,
+      "img": "./kurty11.jpg",
+      "name": "Lime green with green  and gold zari with dupatta",
+      "price":  2020 
+    },
+    {
+      "id": 24,
+      "img": "./kurty12.jpg",
+      "name": "white Embroidery with off-white cream in colour",
+      "price":  1200 
+    },
+    {
+      "id": 25,
+      "img": "./IMAGES/mod1.jpg",
+      "name": "Black Dress with puffed sheer floral prints",
+      "price":  800
+    },
+    {
+      "id": 26,
+      "img": "./IMAGES/mod2.jpg",
+      "name": "Basic white oversized t-shirt with light blue skinny jeans",
+      "price":  2500 
+    },
+    {
+      "id": 27,
+      "img": "./IMAGES/mod11.jfif",
+      "name": "Floral smocked maxi dress with puffy Sleeves",
+      "price":  1590 
+    },
+    {
+      "id": 28,
+      "img": "./IMAGES/mod3.jpg",
+      "name": "Floral high-low top with denim jeans",
+      "price":  3000 
+    },
+    {
+      "id": 29,
+      "img": "./IMAGES/mod4.jfif",
+      "name": "Red printed bohemian blouse with dark blue flared jeans",
+      "price":  5200
+    },
+    {
+      "id": 30,
+      "img": "./IMAGES/mod12.jpg",
+      "name": "Yellow colour A-line button frock",
+      "price":  1000
+    },
+    {
+      "id": 31,
+      "img": "./IMAGES/mod5.jpg",
+      "name": "Floral long shrug with top and Jeggings",
+      "price":  3500 
+    },
+    {
+      "id": 32,
+      "img": "./IMAGES/mod6.jfif",
+      "name": "Formal Casual Combo Striped Shirt with black blazer and pants",
+      "price":  5550 
+    },
+    {
+      "id": 33,
+      "img": "./IMAGES/mod10.jpg",
+      "name": "Blue colour sleeveless Denim Shirt Dress",
+      "price":  2350 
+    },
+    {
+      "id": 34,
+      "img": "./IMAGES/mod9.jpg",
+      "name": "Beige teench coat with jeans and scarf",
+      "price":  10500 
+    },
+    {
+      "id": 35,
+      "img": "./IMAGES/mod8.jfif",
+      "name": "Grey blazer with tank top and jeans",
+      "price":  8900 
+    },
+    {
+      "id": 36,
+      "img": "./IMAGES/mod7.jpg",
+      "name": "Classic Parisian look Striped top with trench coat and black pants",
+      "price":  9500 
+    },
+    {
+      "id":37,
+      "name":"dem"
+    }
+  ]
+}

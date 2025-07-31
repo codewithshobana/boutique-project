@@ -1,0 +1,76 @@
+{
+    "dem": [
+   {
+      "id": 1,
+      "img": "./wedding sares1.jpg",
+      "name": "Silver and Gold Zari Wowen Kanchipuram Tissue",
+      "price":15500
+    },
+    {
+      "id": 2,
+      "img": "./wedding sarees12.jpg",
+      "name": "Maroon and Gold Tissue Designer Saree with Embroideredy",
+      "price":  10000
+    },
+    {
+      "id": 3,
+      "img": "./wedding sarees3.avif",
+      "name": "Orange Sequins Embroidered Organza Designer Saree",
+      "price":  13500 
+    },
+    {
+      "id": 4,
+      "img": "./wedding sarees4.jpg",
+      "name": "Pink & Red Dual Tone Zari Woven Kanchipuram Silk Saree",
+      "price":  9000 
+    },
+    {
+      "id": 5,
+      "img": "./wedding sarees 5.jpg",
+      "name": "Beige Sequins Embroidered Tissue Saree with Readymade Half Sleeves Blouse",
+      "price":  12000
+    },
+    {
+      "id": 6,
+      "img": "./wedding sarees6.jfif",
+      "name": "Dark Green Kanchipuram Silk Pure Zari Saree with Unstitched Blouse",
+      "price":  11500 
+    },
+    {
+      "id": 7,
+      "img": "./sarees1.jpg",
+      "name": "Soft silk saree light weight A Contast magenta with Deep pink colour blouse",
+      "price":  20500
+    },
+    {
+      "id": 8,
+      "img": "./wedding sarees8.jpg",
+      "name": "Off-White & Gold Dual Tone Floral Motif Zari Woven Kanchipuram Tissue Silk Saree",
+      "price":  8300
+    },
+    {
+      "id": 9,
+      "img": "./wedding sarees10.jpg",
+      "name": "Dark Purple Zari Woven Kanchipuram Silk Saree with Unstitched Blouse",
+      "price":  13000
+    },
+    {
+      "id": 10,
+      "img": "./wedding sarees9.jfif",
+      "name": "Orange & Green Dual-Tone Zari Woven Kanchipuram Silk Saree",
+      "price":  10000
+    },
+    {
+      "id": 11,
+      "img": "./sarees2.jpg",
+      "name": "Soft silk saree coral orange with goldern yellow  unstitched blouse",
+      "price":  10800
+    },
+    {
+      "id": 12,
+      "img": "./wedding sarees7.jfif",
+      "name": "Dark Maroon Crepe Designer Saree with Embroidered Full Sleeve Blouse",
+      "price":  9000
+    }
+]
+}

@@ -1,0 +1,76 @@
+{
+    "kur": [
+ {
+      "id": 13,
+      "img": "./kurty13.jpg",
+      "name": "White Cambric Floral Printed Straight Kurta Set",
+      "price":  1500
+    },
+    {
+      "id": 14,
+      "img": "./kurty2.jpg",
+      "name": "Black Cotton Staight Kurta",
+      "price":  800
+    },
+    {
+      "id": 15,
+      "img": "./kurty3.webp",
+      "name": "Teal blue with floral prints in shades of pink,purple and green.",
+      "price": 1500
+    },
+    {
+      "id": 16,
+      "img": "./kurty4.jpg",
+      "name": "Pink colour with white Embroidery",
+      "price":  750
+    },
+    {
+      "id": 17,
+      "img": "./kurty9.jpg",
+      "name": "light beige with goldern Embroidery pant",
+      "price":  1000 
+    },
+    {
+      "id": 18,
+      "img": "./kur4.jpg",
+      "name": "white colour top with dark blue jeans",
+      "price":  830
+    },
+    {
+      "id": 19,
+      "img": "./kur3.jpg",
+      "name": "Blue and green combination with elegent look embroidery",
+      "price":  1300 
+    },
+    {
+      "id": 20,
+      "img": "./kurty8.avif",
+      "name": "A light green with a slight gold tissue silk fabric",
+      "price":  1500
+    },
+    {
+      "id": 21,
+      "img": "./kur5.jpg",
+      "name": "Black top with goldern brown duppata with pink flowers",
+      "price":  950
+    },
+    {
+      "id": 22,
+      "img": "./kurty10.jpg",
+      "name": "Light pastel pink with pastel pink pant and dupatta",
+      "price":  1890 
+    },
+    {
+      "id": 23,
+      "img": "./kur7.jpg",
+      "name": "Goldern white with dress with pink silk duppata",
+      "price":1600 
+    },
+    {
+      "id": 24,
+      "img": "./kur6.jpeg",
+      "name": " Soft Pastel pink with white thread embroidery",
+      "price": 1900 
+    }
+]
+}
